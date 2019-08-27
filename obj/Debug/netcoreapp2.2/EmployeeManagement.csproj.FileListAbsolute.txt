@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csprojAssemblyReference.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfo.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.input.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.output.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorCoreGenerate.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Create.g.cshtml.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Details.g.cshtml.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.dll
+/Users/Guest/Desktop/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.pdb
